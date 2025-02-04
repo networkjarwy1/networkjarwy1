@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @networkjarwy1
-- 👀 I’m interested in programming and elecronic engeniering
+- 👀 I’m interested in programming and electrical engineering
 - 🌱 I’m currently learning c++
 - 📫 How to reach me? You can reach me on email or on my social sites
 
